@@ -1,0 +1,108 @@
+body{
+	  margin: 0;
+	  font-family: 'Roboto', sans-serif;
+    }
+
+.about-section{
+                background-color: #312F44;
+                color: white;
+                width: 800px;
+                margin: auto;
+                padding-bottom: 100px;
+              }
+
+.container{ 
+            text-align: center;
+	        width: 400px;
+         	margin: 0 auto;
+	      }
+
+h1 {
+    font-style: oblique;
+    font-size: 40px;
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: 900;
+    line-height: 1.2 em;
+}
+
+
+
+.logo{
+	width: 100px;
+	margin: auto;
+	display: block;
+	margin-bottom: 40px;
+}
+
+.shape{
+	display: block;
+	margin:0  auto;
+}
+
+
+.shapearrow{
+	display: block;
+	margin: auto;
+}
+
+.search {
+    margin: 20px auto;
+    width: 80%;
+}
+
+
+.baton {
+      display: inline-block;
+     background: rgb(255,165,0);:rgba(255,165,0,1) 0%, 
+    rgba(176,116,6,1) 100%);
+    text-decoration: none;
+    color: white;
+    padding: 20px 40px:;
+    padding: 10px 20px;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-radius: 50px;
+    margin: 20px auto;
+    box-shadow: 2px 1px 20px 1px black;}
+
+
+.post_box {
+    width: px;
+    display: flex;
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+  
+    
+}
+
+.post{
+    font-size: 15px;
+    padding: 20px;
+     border-style: dashed;
+      border-width: 2px;
+       border-color: red;
+       width: 50%;
+}
+    p{
+	font-size:9px;
+     }
+
+
+
+.bes{
+color: #0AD2A1;
+}
+.bud{ color: yellow;
+
+}
+
+h2{ margin: 0;
+
+}
+.post p{font-size: 10px;
+    margin: 0;
+
+}
